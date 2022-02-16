@@ -1,1 +1,8 @@
+API
+
+/users GET -- Used to get all users
+/users/{id} DELETE -- Used to delete a user
+/users/{id} PUT -- Used to update a user 
+/users POST -- Used to post a new user
+
 
